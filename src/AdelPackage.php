@@ -1,6 +1,6 @@
 <?php
 
-namespace adel;
+namespace mox4d;
 
 class AdelPakcage
 {

@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'adel\\' => array($baseDir . '/src'),
+    'mox4d\\' => array($baseDir . '/src'),
 );
