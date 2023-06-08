@@ -1,5 +1,6 @@
 {
     "name": "mox4d/composer-package",
+    "license": "mit",
     "authors": [
         {
             "name": "mohamed adel",
